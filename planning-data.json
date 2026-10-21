@@ -1,0 +1,353 @@
+{
+  "people": [
+    {
+      "initials": "QG",
+      "name": "Quentin Gerarts"
+    },
+    {
+      "initials": "BB",
+      "name": "Benoit Bonaventure"
+    },
+    {
+      "initials": "FT",
+      "name": "Fabien Thoumsin"
+    },
+    {
+      "initials": "NL",
+      "name": "Nathalie Legrand"
+    },
+    {
+      "initials": "EB",
+      "name": "Eric Bohyn"
+    },
+    {
+      "initials": "FG",
+      "name": "Francois Gilles"
+    },
+    {
+      "initials": "PM",
+      "name": "Priscila Martinez"
+    },
+    {
+      "initials": "QF",
+      "name": "Quentin Ferron"
+    },
+    {
+      "initials": "MB",
+      "name": "Marc Beguin"
+    },
+    {
+      "initials": "AS",
+      "name": "Angeline Schmitz"
+    },
+    {
+      "initials": "AD",
+      "name": "Alain Desiron"
+    },
+    {
+      "initials": "DM",
+      "name": "Didier Meurice"
+    }
+  ],
+  "vacations": [
+    {
+      "person": "BB",
+      "start": "2026-08-31",
+      "end": "2026-09-11"
+    },
+    {
+      "person": "QF",
+      "start": "2026-09-14",
+      "end": "2026-09-25"
+    },
+    {
+      "person": "EB",
+      "start": "2026-09-30",
+      "end": "2026-10-07"
+    },
+    {
+      "person": "FG",
+      "start": "2026-10-26",
+      "end": "2026-10-29"
+    },
+    {
+      "person": "BB",
+      "start": "2026-11-09",
+      "end": "2026-11-13"
+    },
+    {
+      "person": "PM",
+      "start": "2026-11-12",
+      "end": "2026-11-13"
+    },
+    {
+      "person": "FG",
+      "start": "2026-12-02",
+      "end": "2026-12-04"
+    },
+    {
+      "person": "NL",
+      "start": "2026-12-21",
+      "end": "2026-12-31"
+    },
+    {
+      "person": "FG",
+      "start": "2026-12-28",
+      "end": "2026-12-31"
+    },
+    {
+      "person": "QF",
+      "start": "2026-10-02",
+      "end": "2026-10-05"
+    },
+    {
+      "person": "QF",
+      "start": "2026-11-19",
+      "end": "2026-11-20"
+    },
+    {
+      "person": "QF",
+      "start": "2026-12-23",
+      "end": "2026-12-24"
+    },
+    {
+      "person": "QF",
+      "start": "2026-12-30",
+      "end": "2026-12-31"
+    },
+    {
+      "person": "EB",
+      "start": "2026-12-22",
+      "end": "2026-12-24"
+    },
+    {
+      "person": "EB",
+      "start": "2026-12-28",
+      "end": "2026-12-31"
+    },
+    {
+      "person": "AD",
+      "start": "2026-09-07",
+      "end": "2026-09-08"
+    },
+    {
+      "person": "QG",
+      "start": "2026-10-22",
+      "end": "2026-10-26"
+    },
+    {
+      "person": "PM",
+      "start": "2026-11-06",
+      "end": "2026-11-11"
+    },
+    {
+      "person": "FT",
+      "start": "2026-09-28",
+      "end": "2026-10-02"
+    },
+    {
+      "person": "FT",
+      "start": "2026-09-14",
+      "end": "2026-09-14"
+    },
+    {
+      "person": "AD",
+      "start": "2026-09-14",
+      "end": "2026-09-21"
+    },
+    {
+      "person": "QG",
+      "start": "2026-11-09",
+      "end": "2026-11-09"
+    },
+    {
+      "person": "QG",
+      "start": "2026-10-06",
+      "end": "2026-10-06"
+    },
+    {
+      "person": "NL",
+      "start": "2026-09-24",
+      "end": "2026-09-24"
+    },
+    {
+      "person": "QG",
+      "start": "2026-12-25",
+      "end": "2026-12-31"
+    },
+    {
+      "person": "NL",
+      "start": "2026-12-11",
+      "end": "2026-12-11"
+    },
+    {
+      "person": "AD",
+      "start": "2026-10-08",
+      "end": "2026-10-13"
+    },
+    {
+      "person": "EB",
+      "start": "2026-10-30",
+      "end": "2026-10-30"
+    },
+    {
+      "person": "AS",
+      "start": "2027-07-05",
+      "end": "2027-07-16"
+    },
+    {
+      "person": "PM",
+      "start": "2026-10-29",
+      "end": "2026-10-29"
+    },
+    {
+      "person": "PM",
+      "start": "2026-12-14",
+      "end": "2026-12-21"
+    },
+    {
+      "person": "PM",
+      "start": "2027-03-08",
+      "end": "2027-03-12"
+    },
+    {
+      "person": "EB",
+      "start": "2026-10-23",
+      "end": "2026-10-23"
+    },
+    {
+      "person": "DM",
+      "start": "2026-10-19",
+      "end": "2026-10-19"
+    },
+    {
+      "person": "FG",
+      "start": "2026-10-23",
+      "end": "2026-10-23"
+    },
+    {
+      "person": "NL",
+      "start": "2026-10-23",
+      "end": "2026-10-23"
+    },
+    {
+      "person": "NL",
+      "start": "2026-11-09",
+      "end": "2026-11-10"
+    }
+  ],
+  "oncall": [
+    {
+      "person": "AD",
+      "start": "2026-08-28",
+      "end": "2026-09-04"
+    },
+    {
+      "person": "QF",
+      "start": "2026-09-04",
+      "end": "2026-09-11"
+    },
+    {
+      "person": "FG",
+      "start": "2026-09-11",
+      "end": "2026-09-18"
+    },
+    {
+      "person": "FT",
+      "start": "2026-09-18",
+      "end": "2026-09-25"
+    },
+    {
+      "person": "PM",
+      "start": "2026-09-25",
+      "end": "2026-10-02"
+    },
+    {
+      "person": "FG",
+      "start": "2026-10-02",
+      "end": "2026-10-09"
+    },
+    {
+      "person": "QF",
+      "start": "2026-10-16",
+      "end": "2026-10-23"
+    },
+    {
+      "person": "AD",
+      "start": "2026-10-23",
+      "end": "2026-10-30"
+    },
+    {
+      "person": "NL",
+      "start": "2026-10-30",
+      "end": "2026-11-06"
+    },
+    {
+      "person": "FT",
+      "start": "2026-11-06",
+      "end": "2026-11-13"
+    },
+    {
+      "person": "FG",
+      "start": "2026-11-13",
+      "end": "2026-11-20"
+    },
+    {
+      "person": "PM",
+      "start": "2026-11-27",
+      "end": "2026-12-04"
+    },
+    {
+      "person": "AD",
+      "start": "2026-12-04",
+      "end": "2026-12-11"
+    },
+    {
+      "person": "QF",
+      "start": "2026-12-11",
+      "end": "2026-12-18"
+    },
+    {
+      "person": "AD",
+      "start": "2026-12-18",
+      "end": "2026-12-25"
+    },
+    {
+      "person": "PM",
+      "start": "2026-09-05",
+      "end": "2026-09-06"
+    },
+    {
+      "person": "NL",
+      "start": "2026-10-09",
+      "end": "2026-10-16"
+    },
+    {
+      "person": "FG",
+      "start": "2026-11-20",
+      "end": "2026-11-27"
+    }
+  ],
+  "sickness": [
+    {
+      "person": "MB",
+      "start": "2026-03-05",
+      "end": "2026-08-31"
+    },
+    {
+      "person": "MB",
+      "start": "2026-09-01",
+      "end": "2026-09-30"
+    },
+    {
+      "person": "PM",
+      "start": "2026-09-21",
+      "end": "2026-09-24"
+    },
+    {
+      "person": "MB",
+      "start": "2026-10-01",
+      "end": "2026-11-15"
+    }
+  ]
+}

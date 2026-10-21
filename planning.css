@@ -1,0 +1,155 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+    color: #003366;
+}
+
+.wrapper {
+    overflow: auto;
+    max-height: 75vh;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background: white;
+}
+
+th,
+td {
+    border: 1px solid #cccccc;
+    padding: 8px;
+    text-align: center;
+    min-width: 55px;
+}
+
+/* Ligne des initiales figée */
+
+th {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+
+    background-color: #003366;
+    color: white;
+}
+
+/* Coin supérieur gauche */
+
+th:first-child {
+    left: 0;
+    z-index: 30;
+}
+
+/* Colonne Jour figée */
+
+.day,
+.nonworkingday,
+.holiday {
+    position: sticky;
+    left: 0;
+    z-index: 10;
+}
+
+.day {
+    background-color: #eeeeee;
+    font-weight: bold;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.navigation button {
+    background: #0057B8;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.navigation button:hover {
+    background: #003f85;
+}
+
+#currentMonth {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nonworkingday {
+    background-color: #8fa8d6;
+    font-weight: bold;
+    color: black;
+}
+
+.holiday {
+    background-color: #81C784;
+    font-weight: bold;
+    color: black;
+}
+
+.vacation {
+    background-color: #ffd966;
+    color: black;
+    font-weight: bold;
+}
+
+.oncall {
+    background-color: #9b59b6;
+    color: white;
+    font-weight: bold;
+}
+
+.both {
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+}
+
+.sickness {
+    background-color: #FF0000;
+    color: white;
+    font-weight: bold;
+}
+
+.legend {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 15px 0;
+    flex-wrap: wrap;
+}
+
+.legend-item {
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+@media (max-width: 768px) {
+
+    body {
+        margin: 10px;
+        font-size: 12px;
+    }
+
+    th,
+    td {
+        min-width: 45px;
+        padding: 5px;
+    }
+
+    .navigation {
+        flex-wrap: wrap;
+    }
+}
